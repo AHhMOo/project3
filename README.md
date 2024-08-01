@@ -1,4 +1,6 @@
 The Contact Management System is a command-line application designed to help you manage your contacts efficiently. It allows users to add, edit, delete, search, display, export, and import contacts using a simple text-based interface.
+
+
 Features
 Add a new contact: Input name, phone number, email, address, and notes.
 Edit an existing contact: Modify any details of an existing contact.
